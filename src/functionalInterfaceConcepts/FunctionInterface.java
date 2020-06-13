@@ -2,7 +2,7 @@ package functionalInterfaceConcepts;
 
 import java.util.function.Function;
 
-public class FunctionalInterface {
+public class FunctionInterface {
 
 	public static void main(String[] args) {
 
