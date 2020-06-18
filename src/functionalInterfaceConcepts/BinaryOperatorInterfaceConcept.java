@@ -3,7 +3,7 @@ package functionalInterfaceConcepts;
 import java.util.function.BiFunction;
 import java.util.function.BinaryOperator;
 
-public class BinaryInterfaceConcept {
+public class BinaryOperatorInterfaceConcept {
 
 	public static void main(String[] args) {
 
